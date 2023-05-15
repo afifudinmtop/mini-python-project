@@ -13,3 +13,6 @@ list of my mini python project just for fun
 
 - [4] Prime Factorization.
   Have the user enter a number and find all Prime Factors (if there are any) and display them.
+
+- [5] Credit Card Validator.
+  Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
