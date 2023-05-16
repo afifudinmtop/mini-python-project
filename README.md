@@ -16,3 +16,6 @@ list of my mini python project just for fun
 
 - [5] Credit Card Validator.
   Takes in a credit card number from a common credit card vendor (Visa, MasterCard, American Express, Discoverer) and validates it to make sure that it is a valid number (look into how credit cards use a checksum).
+
+- [6] Factorial Finder.
+  The Factorial of a positive integer, n, is defined as the product of the sequence n, n-1, n-2, ...1 and the factorial of zero, 0, is defined as being 1. Solve this using both loops and recursion.
