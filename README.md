@@ -22,3 +22,6 @@ list of my mini python project just for fun
 
 - [7] Country from IP Lookup.
   Enter an IP address and find the country that IP is registered in. Optional: Find the Ip automatically.
+
+- [8] Whois Search Tool.
+  Enter an IP or host address and have it look it up through whois and return the results to you.
