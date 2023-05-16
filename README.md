@@ -25,3 +25,6 @@ list of my mini python project just for fun
 
 - [8] Whois Search Tool.
   Enter an IP or host address and have it look it up through whois and return the results to you.
+
+- [9] CAPTCHA Maker.
+  Ever see those images with letters a numbers when you signup for a service and then asks you to enter what you see? It keeps web bots from automatically signing up and spamming. Try creating one yourself for online forms.
